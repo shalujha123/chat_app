@@ -29,8 +29,8 @@ Built with **ReactJS, Express.js, MongoDB, and Socket.IO**, this app ensures smo
 
    Install dependencies for both backend and frontend:
 
-cd backend && npm install
-cd frontend && npm install
+cd server && npm install
+cd client && npm install
 
 
 Add environment variables:
@@ -42,9 +42,9 @@ JWT_SECRET → Secret key for JWT
 Run the app:
 
 # Run backend
-cd backend && npm start
+cd server && npm start
 
 # Run frontend
-cd frontend && npm start
+cd client && npm start
 
 Developed by Shalu Kumari
