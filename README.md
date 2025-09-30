@@ -23,24 +23,19 @@ Built with **ReactJS, Express.js, MongoDB, and Socket.IO**, this app ensures smo
 ---
 
 ## Setup Instructions
-1. Clone the repo:  
+1) Clone the repo:  
    ```bash
    git clone https://github.com/shalujha123/chat_app.git
 
-   Install dependencies for both backend and frontend:
-
+2) Install dependencies for both backend and frontend:
 cd server && npm install
 cd client && npm install
 
-
-Add environment variables:
-
+3) Add environment variables:
 MONGO_URI → MongoDB connection string
-
 JWT_SECRET → Secret key for JWT
 
-Run the app:
-
+4) Run the app:
 # Run backend
 cd server && npm start
 
