@@ -42,4 +42,9 @@ cd server && npm start
 # Run frontend
 cd client && npm start
 
+ Live Demo
+
+Click here to view the live project
+https://chat-app-nine-blue-44.vercel.app/login
+
 Developed by Shalu Kumari
