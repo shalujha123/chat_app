@@ -22,7 +22,7 @@ Built with **ReactJS, Express.js, MongoDB, and Socket.IO**, this app ensures smo
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 1. Clone the repo:  
    ```bash
    git clone https://github.com/shalujha123/chat_app.git
@@ -46,7 +46,5 @@ cd backend && npm start
 
 # Run frontend
 cd frontend && npm start
-
-Author
 
 Developed by Shalu Kumari
